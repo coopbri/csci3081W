@@ -1,0 +1,11 @@
+{
+  "width": 600,
+  "height": 600,
+  "entities": [
+      {"type": "Predator", "x":170, "y":500, "r":15, "theta":270.0},
+      {"type": "Predator", "x":270, "y":500, "r":15, "theta":270.0},
+      {"type": "Braitenberg", "x":120, "y":300, "r":15, "theta": 270.0, "light_behavior": "None", "food_behavior": "None", "robot_behavior": "Love" },
+      {"type": "Braitenberg", "x":220, "y":300, "r":15, "theta": 270.0, "light_behavior": "None", "food_behavior": "None", "robot_behavior": "Coward" },
+      {"type": "Braitenberg", "x":320, "y":300, "r":15, "theta": 270.0, "light_behavior": "None", "food_behavior": "None", "robot_behavior": "Explore" },
+      {"type": "Braitenberg", "x":420, "y":300, "r":15, "theta": 270.0, "light_behavior": "None", "food_behavior": "None", "robot_behavior": "Aggressive" } ]
+}

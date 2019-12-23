@@ -1,0 +1,9 @@
+{
+  "width": 600,
+  "height": 600,
+  "entities": [
+      {"type": "Predator", "x":170, "y":340, "r":15, "theta":270.0},
+      {"type": "Predator", "x":270, "y":250, "r":15, "theta":270.0},
+      {"type": "Light", "x":100, "y":250, "r":30 },
+      {"type": "Light", "x":500, "y":350, "r":30 } ]
+}

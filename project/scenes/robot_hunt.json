@@ -1,0 +1,8 @@
+{
+  "width": 600,
+  "height": 600,
+  "entities": [
+      {"type": "Predator", "x":155, "y":520, "r":15, "theta":270.0},
+      {"type": "Predator", "x":270, "y":500, "r":15, "theta":270.0},
+      {"type": "Braitenberg", "x":180, "y":470, "r":15, "theta": 270.0, "light_behavior": "None", "food_behavior": "None", "robot_behavior": "Love" } ]
+}
